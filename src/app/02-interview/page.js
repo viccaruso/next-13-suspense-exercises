@@ -4,7 +4,7 @@ import Spinner from '@/components/Spinner';
 
 export const dynamic = 'force-dynamic';
 
-async function InterviewExercise() {
+function InterviewExercise() {
   return (
     <>
       <article className="main-article">
